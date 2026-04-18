@@ -1,0 +1,520 @@
+{
+  "match": {
+    "home": "Glasgow",
+    "away": "Toulon",
+    "date": "2020-01-07",
+    "competition": "European Champ"
+  },
+  "tags": [
+    {
+      "id": 1776352508254.9663,
+      "timestamp": "00:00:24",
+      "videoSec": 24,
+      "team": "home",
+      "teamLabel": "Home",
+      "eventKey": "lineout",
+      "eventLabel": "Lineout",
+      "eventColor": "#1d4ed8",
+      "detail": "7 Man | 3 | Maul On",
+      "sels": {
+        "structure": "7 Man",
+        "throwPos": "3",
+        "result": "Maul On"
+      },
+      "player": "",
+      "zone": "Attacking 10"
+    },
+    {
+      "id": 1776352534270.8682,
+      "timestamp": "00:00:33",
+      "videoSec": 34,
+      "team": "home",
+      "teamLabel": "Home",
+      "eventKey": "try",
+      "eventLabel": "Try",
+      "eventColor": "#d97706",
+      "detail": "",
+      "sels": {},
+      "player": "",
+      "zone": "Attacking 10"
+    },
+    {
+      "id": 1776352602036.897,
+      "timestamp": "00:01:05",
+      "videoSec": 65,
+      "team": "away",
+      "teamLabel": "Away",
+      "eventKey": "tackle",
+      "eventLabel": "Tackle",
+      "eventColor": "#dc2626",
+      "detail": "Tackle Made",
+      "sels": {
+        "type": "Tackle Made"
+      },
+      "player": "",
+      "zone": "Attacking 10"
+    },
+    {
+      "id": 1776352606137.217,
+      "timestamp": "00:01:11",
+      "videoSec": 72,
+      "team": "away",
+      "teamLabel": "Away",
+      "eventKey": "tackle",
+      "eventLabel": "Tackle",
+      "eventColor": "#dc2626",
+      "detail": "Tackle Made",
+      "sels": {
+        "type": "Tackle Made"
+      },
+      "player": "",
+      "zone": "Attacking 10"
+    },
+    {
+      "id": 1776352685687.498,
+      "timestamp": "00:01:15",
+      "videoSec": 75,
+      "team": "away",
+      "teamLabel": "Away",
+      "eventKey": "penalty",
+      "eventLabel": "Penalty",
+      "eventColor": "#b45309",
+      "detail": "Penalty Won | Breakdown",
+      "sels": {
+        "reason": "Breakdown",
+        "result": "Penalty Won"
+      },
+      "player": "",
+      "zone": "Attacking 10"
+    },
+    {
+      "id": 1776352693883.0999,
+      "timestamp": "00:01:23",
+      "videoSec": 84,
+      "team": "away",
+      "teamLabel": "Away",
+      "eventKey": "tackle",
+      "eventLabel": "Tackle",
+      "eventColor": "#dc2626",
+      "detail": "Tackle Made",
+      "sels": {
+        "type": "Tackle Made"
+      },
+      "player": "",
+      "zone": "Attacking 10"
+    },
+    {
+      "id": 1776352716270.0757,
+      "timestamp": "00:01:19",
+      "videoSec": 80,
+      "team": "away",
+      "teamLabel": "Away",
+      "eventKey": "tackle",
+      "eventLabel": "Tackle",
+      "eventColor": "#dc2626",
+      "detail": "Tackle Made",
+      "sels": {
+        "type": "Tackle Made"
+      },
+      "player": "",
+      "zone": "Attacking 10"
+    },
+    {
+      "id": 1776352726119.569,
+      "timestamp": "00:01:33",
+      "videoSec": 94,
+      "team": "away",
+      "teamLabel": "Away",
+      "eventKey": "try",
+      "eventLabel": "Try",
+      "eventColor": "#d97706",
+      "detail": "",
+      "sels": {},
+      "player": "",
+      "zone": "Attacking 10"
+    },
+    {
+      "id": 1776352771503.7913,
+      "timestamp": "00:02:09",
+      "videoSec": 129,
+      "team": "home",
+      "teamLabel": "Home",
+      "eventKey": "penalty",
+      "eventLabel": "Penalty",
+      "eventColor": "#b45309",
+      "detail": "Penalty Won | Scrum",
+      "sels": {
+        "reason": "Scrum",
+        "result": "Penalty Won"
+      },
+      "player": "",
+      "zone": "Attacking 10"
+    },
+    {
+      "id": 1776353114820.8215,
+      "timestamp": "00:02:29",
+      "videoSec": 150,
+      "team": "home",
+      "teamLabel": "Home",
+      "eventKey": "tackle",
+      "eventLabel": "Tackle",
+      "eventColor": "#dc2626",
+      "detail": "Tackle Made",
+      "sels": {
+        "type": "Tackle Made"
+      },
+      "player": "",
+      "zone": "Attacking 22"
+    },
+    {
+      "id": 1776353134635.2732,
+      "timestamp": "00:02:35",
+      "videoSec": 155,
+      "team": "home",
+      "teamLabel": "Home",
+      "eventKey": "tackle",
+      "eventLabel": "Tackle",
+      "eventColor": "#dc2626",
+      "detail": "Tackle Made",
+      "sels": {
+        "type": "Tackle Made"
+      },
+      "player": "",
+      "zone": "Attacking 10"
+    },
+    {
+      "id": 1776353203501.396,
+      "timestamp": "00:02:51",
+      "videoSec": 172,
+      "team": "home",
+      "teamLabel": "Home",
+      "eventKey": "lineout",
+      "eventLabel": "Lineout",
+      "eventColor": "#1d4ed8",
+      "detail": "6+1 | 2 | Won",
+      "sels": {
+        "structure": "6+1",
+        "throwPos": "2",
+        "result": "Won"
+      },
+      "player": "",
+      "zone": "Attacking 10"
+    },
+    {
+      "id": 1776353220183.4739,
+      "timestamp": "00:02:57",
+      "videoSec": 177,
+      "team": "home",
+      "teamLabel": "Home",
+      "eventKey": "penalty",
+      "eventLabel": "Penalty",
+      "eventColor": "#b45309",
+      "detail": "Penalty Won | Lineout",
+      "sels": {
+        "reason": "Lineout",
+        "result": "Penalty Won"
+      },
+      "player": "",
+      "zone": "Attacking 10"
+    },
+    {
+      "id": 1776353265647.6833,
+      "timestamp": "00:03:37",
+      "videoSec": 217,
+      "team": "home",
+      "teamLabel": "Home",
+      "eventKey": "tackle",
+      "eventLabel": "Tackle",
+      "eventColor": "#dc2626",
+      "detail": "Tackle Made",
+      "sels": {
+        "type": "Tackle Made"
+      },
+      "player": "",
+      "zone": "Attacking 10"
+    },
+    {
+      "id": 1776353290632.8875,
+      "timestamp": "00:04:02",
+      "videoSec": 242,
+      "team": "home",
+      "teamLabel": "Home",
+      "eventKey": "try",
+      "eventLabel": "Try",
+      "eventColor": "#d97706",
+      "detail": "",
+      "sels": {},
+      "player": "",
+      "zone": "Attacking 10"
+    },
+    {
+      "id": 1776353308838.6677,
+      "timestamp": "00:04:35",
+      "videoSec": 276,
+      "team": "away",
+      "teamLabel": "Away",
+      "eventKey": "tackle",
+      "eventLabel": "Tackle",
+      "eventColor": "#dc2626",
+      "detail": "Tackle Made",
+      "sels": {
+        "type": "Tackle Made"
+      },
+      "player": "",
+      "zone": "Attacking 10"
+    },
+    {
+      "id": 1776353323848.313,
+      "timestamp": "00:04:46",
+      "videoSec": 286,
+      "team": "away",
+      "teamLabel": "Away",
+      "eventKey": "tackle",
+      "eventLabel": "Tackle",
+      "eventColor": "#dc2626",
+      "detail": "Tackle Made",
+      "sels": {
+        "type": "Tackle Made"
+      },
+      "player": "",
+      "zone": "Attacking 10"
+    },
+    {
+      "id": 1776353343149.4448,
+      "timestamp": "00:04:55",
+      "videoSec": 295,
+      "team": "away",
+      "teamLabel": "Away",
+      "eventKey": "try",
+      "eventLabel": "Try",
+      "eventColor": "#d97706",
+      "detail": "",
+      "sels": {},
+      "player": "",
+      "zone": "Attacking 10"
+    },
+    {
+      "id": 1776353373965.502,
+      "timestamp": "00:05:24",
+      "videoSec": 324,
+      "team": "away",
+      "teamLabel": "Away",
+      "eventKey": "tackle",
+      "eventLabel": "Tackle",
+      "eventColor": "#dc2626",
+      "detail": "Tackle Made",
+      "sels": {
+        "type": "Tackle Made"
+      },
+      "player": "",
+      "zone": "Half to 22"
+    },
+    {
+      "id": 1776353404164.944,
+      "timestamp": "00:05:58",
+      "videoSec": 359,
+      "team": "away",
+      "teamLabel": "Away",
+      "eventKey": "try",
+      "eventLabel": "Try",
+      "eventColor": "#d97706",
+      "detail": "",
+      "sels": {},
+      "player": "",
+      "zone": ""
+    },
+    {
+      "id": 1776353432999.5535,
+      "timestamp": "00:06:48",
+      "videoSec": 408,
+      "team": "home",
+      "teamLabel": "Home",
+      "eventKey": "turnover",
+      "eventLabel": "Turnover",
+      "eventColor": "#ea580c",
+      "detail": "Turnover Lost | Steal",
+      "sels": {
+        "result": "Turnover Lost",
+        "type": "Steal"
+      },
+      "player": "",
+      "zone": ""
+    },
+    {
+      "id": 1776353466582.2642,
+      "timestamp": "00:07:03",
+      "videoSec": 423,
+      "team": "home",
+      "teamLabel": "Home",
+      "eventKey": "lineout",
+      "eventLabel": "Lineout",
+      "eventColor": "#1d4ed8",
+      "detail": "7 Man | 3 | Maul On",
+      "sels": {
+        "structure": "7 Man",
+        "throwPos": "3",
+        "result": "Maul On"
+      },
+      "player": "",
+      "zone": "Attacking 10"
+    },
+    {
+      "id": 1776353476848.044,
+      "timestamp": "00:07:18",
+      "videoSec": 439,
+      "team": "home",
+      "teamLabel": "Home",
+      "eventKey": "try",
+      "eventLabel": "Try",
+      "eventColor": "#d97706",
+      "detail": "",
+      "sels": {},
+      "player": "",
+      "zone": "Attacking 10"
+    },
+    {
+      "id": 1776353512971.5173,
+      "timestamp": "00:07:52",
+      "videoSec": 472,
+      "team": "home",
+      "teamLabel": "Home",
+      "eventKey": "tackle",
+      "eventLabel": "Tackle",
+      "eventColor": "#dc2626",
+      "detail": "Tackle Missed",
+      "sels": {
+        "type": "Tackle Missed"
+      },
+      "player": "",
+      "zone": "Attacking 10"
+    },
+    {
+      "id": 1776353526348.982,
+      "timestamp": "00:07:55",
+      "videoSec": 476,
+      "team": "home",
+      "teamLabel": "Home",
+      "eventKey": "tackle",
+      "eventLabel": "Tackle",
+      "eventColor": "#dc2626",
+      "detail": "Tackle Missed",
+      "sels": {
+        "type": "Tackle Missed"
+      },
+      "player": "",
+      "zone": "22 to Half"
+    },
+    {
+      "id": 1776353540271.6025,
+      "timestamp": "00:08:11",
+      "videoSec": 491,
+      "team": "away",
+      "teamLabel": "Away",
+      "eventKey": "scrum",
+      "eventLabel": "Scrum",
+      "eventColor": "#7c3aed",
+      "detail": "Scrum Won",
+      "sels": {
+        "result": "Scrum Won"
+      },
+      "player": "",
+      "zone": "22 to Half"
+    },
+    {
+      "id": 1776353560281.1729,
+      "timestamp": "00:08:11",
+      "videoSec": 492,
+      "team": "away",
+      "teamLabel": "Away",
+      "eventKey": "scrum",
+      "eventLabel": "Scrum",
+      "eventColor": "#7c3aed",
+      "detail": "Scrum Won",
+      "sels": {
+        "result": "Scrum Won"
+      },
+      "player": "",
+      "zone": "Half to 22"
+    },
+    {
+      "id": 1776353569231.7976,
+      "timestamp": "00:08:15",
+      "videoSec": 496,
+      "team": "away",
+      "teamLabel": "Away",
+      "eventKey": "linebreak",
+      "eventLabel": "Linebreak",
+      "eventColor": "#0d9488",
+      "detail": "+ Positive",
+      "sels": {
+        "outcome": "+ Positive"
+      },
+      "player": "",
+      "zone": "Half to 22"
+    },
+    {
+      "id": 1776353578365.428,
+      "timestamp": "00:08:30",
+      "videoSec": 511,
+      "team": "away",
+      "teamLabel": "Away",
+      "eventKey": "try",
+      "eventLabel": "Try",
+      "eventColor": "#d97706",
+      "detail": "",
+      "sels": {},
+      "player": "",
+      "zone": "Half to 22"
+    },
+    {
+      "id": 1776353633364.4558,
+      "timestamp": "00:09:15",
+      "videoSec": 555,
+      "team": "away",
+      "teamLabel": "Away",
+      "eventKey": "linebreak",
+      "eventLabel": "Linebreak",
+      "eventColor": "#0d9488",
+      "detail": "+ Positive",
+      "sels": {
+        "outcome": "+ Positive"
+      },
+      "player": "",
+      "zone": "Inside 22"
+    },
+    {
+      "id": 1776353669698.1785,
+      "timestamp": "00:09:26",
+      "videoSec": 566,
+      "team": "home",
+      "teamLabel": "Home",
+      "eventKey": "turnover",
+      "eventLabel": "Turnover",
+      "eventColor": "#ea580c",
+      "detail": "Turnover Won | Ruck Turnover",
+      "sels": {
+        "result": "Turnover Won",
+        "type": "Ruck Turnover"
+      },
+      "player": "",
+      "zone": "22 to Half"
+    },
+    {
+      "id": 1776353683764.044,
+      "timestamp": "00:09:46",
+      "videoSec": 586,
+      "team": "home",
+      "teamLabel": "Home",
+      "eventKey": "linebreak",
+      "eventLabel": "Linebreak",
+      "eventColor": "#0d9488",
+      "detail": "+ Positive",
+      "sels": {
+        "outcome": "+ Positive"
+      },
+      "player": "",
+      "zone": "22 to Half"
+    }
+  ],
+  "savedAt": "2026-04-16T15:39:10.230Z"
+}
