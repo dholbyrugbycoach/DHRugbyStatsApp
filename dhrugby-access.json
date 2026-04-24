@@ -1,0 +1,11 @@
+{
+  "validUntil": "2026-05-31",
+  "users": [
+    { "username": "coach1",      "password": "9QAJ-O9UW-R2VX", "active": true },
+    { "username": "coach2",      "password": "4XYT-HDN5-ZTWT", "active": true },
+    { "username": "coach3",      "password": "HJFH-9U0D-8RQX", "active": true },
+    { "username": "coach4",      "password": "1B7X-OILQ-M6KJ", "active": true },
+    { "username": "coach5",      "password": "MNDI-ZEQW-X4KX", "active": true },
+    { "username": "techadvisor", "password": "X6TQ-76YY-LJS9", "active": true }
+  ]
+}
